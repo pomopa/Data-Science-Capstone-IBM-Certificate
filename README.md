@@ -11,6 +11,8 @@ The project focuses on **SpaceY**, a fictional company aiming to compete with **
 
 ## 📂 Repository Structure
 
+The repository has a folder structure dividing the hands-on labs into each chapter they correspond inside the course. This folders are numbered from one to five and contain the following sections:
+
 ### 1️⃣ Data Collection
 **Techniques:** REST APIs & Web Scraping  
 - Extraction of launch and rocket data using public REST APIs  
