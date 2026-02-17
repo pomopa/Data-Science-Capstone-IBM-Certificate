@@ -60,7 +60,7 @@ The repository has a folder structure dividing the hands-on labs into each chapt
 
 ---
 
-📜 Certification:
+## 📜 Certification
 IBM Applied Data Science Capstone — Coursera (IBM Data Science Professional Certificate Track)
 Credential: https://coursera.org/verify/OVMJK0EV3TW9
 
